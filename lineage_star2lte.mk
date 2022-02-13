@@ -45,4 +45,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.build.PDA=G965FXXUCFTK1
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    lineage.updater.uri=https://raw.githubusercontent.com/Geoknyda/OTA/lineage-18.1/star2lte.json
+    lineage.updater.uri=https://raw.githubusercontent.com/WalterEight/OTA/lineage-18.1/star2lte.json
